@@ -13,6 +13,6 @@ Objects -
 10. Direction (Enum class Up/Down)
 11. Status (Enum class Idle, Moving)
 
-Below id the UML Diagram -
+Below is the UML Diagram -
 
 ![](src/main/resources/uml_dig_elevator.jpg)
